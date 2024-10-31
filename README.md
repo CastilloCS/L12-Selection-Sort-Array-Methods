@@ -1,4 +1,4 @@
-# Lab 15 - Selection Sort + Array Methods
+# Lab 12 - Selection Sort + Array Methods
 
 **Implement the Selection Sort Algorithm Using Array Methods**
 
